@@ -1,7 +1,6 @@
 const { DataTypes } = require('sequelize')
 const bcrypt = require('bcrypt')
 const db = require('../configs/db')
-const Cart = require('./Cart')
 
 const Customer = db.define(
     'customers',

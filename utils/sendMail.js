@@ -13,7 +13,7 @@ const sendMail = async ({ to, subject, text, html }) => {
     })
 
     const info = await transporter.sendMail({
-        from: '"Neo" <matrixpicker@gmail.com>', // sender address
+        from: `${process.env.MAIL_USERNAME}`, // sender address
         to,
         subject,
         html,

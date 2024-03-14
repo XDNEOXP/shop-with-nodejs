@@ -12,6 +12,8 @@ const singleproductController = require('../controllers/singleproductController'
 const cartController = require('../controllers/cartController')
 const checkoutController = require('../controllers/checkoutController')
 const categoryController = require('../controllers/categoryController')
+const searchController = require('../controllers/searchController')
+const contactController = require('../controllers/contactController')
 
 const router = express.Router()
 
@@ -25,6 +27,8 @@ router.get('/product', singleproductController)
 router.get('/cart', checkAuthenticated, cartController.get)
 router.get('/checkout', checkAuthenticated, checkoutController.get)
 router.get('/category', categoryController)
+router.get('/search', searchController)
+router.get('/contact', contactController)
 
 // POST
 router.post(

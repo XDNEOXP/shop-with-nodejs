@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <%- include('./layout/head') %>
+    </head>
+    <body>
+        <%- include('./layout/header') %>
+        <!-- ================ start banner area ================= -->
+        <section class="blog-banner-area" id="category">
+            <div class="container h-100">
+                <div class="blog-banner">
+                    <div class="text-center">
+                        <h1>Shopping Cart</h1>
+                        <nav aria-label="breadcrumb" class="banner-breadcrumb">
+                            <ol class="breadcrumb">
+                                <li class="breadcrumb-item">
+                                    <a href="#">Home</a>
+                                </li>
+                                <li
+                                    class="breadcrumb-item active"
+                                    aria-current="page"
+                                >
+                                    Shopping Cart
+                                </li>
+                            </ol>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- ================ end banner area ================= -->
+
+        <!--================Cart Area =================-->
+        <section class="cart_area">
+            <div class="container">
+                <div class="cart_inner">
+                    <% for(key in flash){ %>
+                        <div class="col-md-12 form-group">
+                            <div
+                                class="alert alert-danger text-center"
+                                role="alert"
+                            >
+                            <%= flash[key] %>
+                            </div>
+                        </div>
+                    <% } %>
+                    <% if(cartItems.length){ %>
+                        <div class="table-responsive">
+                            <table class="table">
+                                <thead>
+                                    <tr>
+                                        <th scope="col">Product</th>
+                                        <th scope="col">Price</th>
+                                        <th scope="col">Quantity</th>
+                                        <th scope="col">Total</th>
+                                        <th scope="col"></th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                <% cartItems.forEach((cartItem) => { %>
+                                        <tr>
+                                            <td>
+                                                <div class="media">
+                                                    <div class="media-body">
+                                                        <a href="/product?id=<%= cartItem.product_id %>">
+                                                            <%= cartItem.name %>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            <td>
+                                                <h5>$<%= cartItem.price %></h5>
+                                            </td>
+                                            <td>
+                                                <div class="product_count">
+                                                    <form action="/cart?_method=PUT&product_id=<%= cartItem.product_id %>" onkeydown="return event.key != 'Enter';" method="post">
+                                                        <input
+                                                            type="text"
+                                                            name="qty"
+                                                            id="sst-<%= cartItem.product_id %>"
+                                                            maxlength="12"
+                                                            value="<%= cartItem.quantity %>"
+                                                            title="Quantity:"
+                                                            class="input-text qty"
+                                                            readonly="true"
+                                                        />
+                                                        <input type="text" name="product_id" hidden value="<%= cartItem.product_id %>" id="">
+                                                        <button
+                                                            name="increase"
+                                                            value="1"
+                                                            class="increase items-count"
+                                                            type="submit"
+                                                        >
+                                                            <i
+                                                                class="lnr lnr-chevron-up"
+                                                            ></i>
+                                                        </button>
+                                                        <button
+                                                            onclick="var result = document.getElementById('sst-<%= cartItem.product_id %>'); var sst = result.value; if( !isNaN( sst ) , sst <= 1 ) return false;"
+                                                            name="reduced"
+                                                            value="1"
+                                                            class="reduced items-count"
+                                                            type="submit"
+                                                        >
+                                                            <i
+                                                                class="lnr lnr-chevron-down"
+                                                            ></i>
+                                                        </button>
+                                                    </form>
+                                                </div>
+                                            </td>
+                                            <td>
+                                                <h5>$<%= cartItem.price * cartItem.quantity  %></h5>
+                                            </td>
+                                            <td>
+                                                <form action="/cart?_method=DELETE&id=<%= cartItem.product_id %>" method="post">
+                                                    <button type="submit" class="btn btn-danger">
+                                                        Delete
+                                                    </button>
+                                                </form>
+                                            </td>
+                                        </tr>
+                                <% }) %>
+                                    <tr class="out_button_area">
+                                        <td class="d-none-l"></td>
+                                        <td class=""></td>
+                                        <td></td>
+                                        <td>
+                                            <div
+                                                class="checkout_btn_inner d-flex align-items-center"
+                                            >
+                                                <a class="gray_btn" href="/"
+                                                    >Continue Shopping</a
+                                                >
+                                                <a
+                                                    class="primary-btn ml-2"
+                                                    href="/checkout"
+                                                    >Proceed to checkout</a
+                                                >
+                                            </div>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    <% } else{ %>
+                        <div class="w-100 d-flex flex-column justify-content-center align-items-center p-5">
+                            <h3>Nothing Yet :(</h3>
+                            <a href="/" class="button mt-5">Start shopping</a>
+                        </div>
+                    <% } %>
+                </div>
+            </div>
+        </section>
+        <!--================End Cart Area =================-->
+
+        <%- include('./layout/footer') %>
+    </body>
+</html>

@@ -1,0 +1,115 @@
+<header class="header_area">
+    <div class="main_menu">
+        <nav class="navbar navbar-expand-lg navbar-light">
+            <div class="container">
+                <a class="navbar-brand logo_h" href="/"
+                    ><img src="assets/img/logo.png" alt=""
+                /></a>
+                <button
+                    class="navbar-toggler"
+                    type="button"
+                    data-toggle="collapse"
+                    data-target="#navbarSupportedContent"
+                    aria-controls="navbarSupportedContent"
+                    aria-expanded="false"
+                    aria-label="Toggle navigation"
+                >
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <div
+                    class="collapse navbar-collapse offset"
+                    id="navbarSupportedContent"
+                >
+                    <ul class="nav navbar-nav menu_nav ml-auto mr-auto">
+                        <li class="nav-item active">
+                            <a class="nav-link" href="/">Home</a>
+                        </li>
+                        <li class="nav-item submenu dropdown">
+                            <a
+                                href="#"
+                                class="nav-link dropdown-toggle"
+                                data-toggle="dropdown"
+                                role="button"
+                                aria-haspopup="true"
+                                aria-expanded="false"
+                                >Shop</a
+                            >
+                            <ul class="dropdown-menu">
+                                <li class="nav-item">
+                                    <a class="nav-link" href="/checkout"
+                                        >Product Checkout</a
+                                    >
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="/cart"
+                                        >Shopping Cart</a
+                                    >
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/contact">Contact</a>
+                        </li>
+                    </ul>
+
+                    <ul class="nav-shop">
+                        <li class="nav-item">
+                            <li class="nav-item">
+                                <%- include('./searchModal') %>
+                            </li>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/cart">
+                                <i class="ti-shopping-cart"></i>
+                            </a>
+                        </li>
+                        <li class="nav-item submenu dropdown mr-auto">
+                            <% if(customer){ %>
+                                <a
+                                    href="#"
+                                    class="nav-link dropdown-toggle"
+                                    data-toggle="dropdown"
+                                    role="button"
+                                    aria-haspopup="true"
+                                    aria-expanded="false"
+                                    ><strong><%= customer.name %></strong></a
+                                >
+                                <ul class="dropdown-menu">
+                                        <li class="nav-item">
+                                            <form action="/logout?_method=DELETE" method="post">
+                                                <button type="submit" class="nav-item text-left" href="/logout"
+                                                    >Log out</
+                                                >
+                                            </form>
+                                        </li>
+                                </ul>
+                            <% } else{ %>
+                                <a
+                                    href="#"
+                                    class="nav-link dropdown-toggle"
+                                    data-toggle="dropdown"
+                                    role="button"
+                                    aria-haspopup="true"
+                                    aria-expanded="false"
+                                    >Login \ Signup</a
+                                >
+                                <ul class="dropdown-menu">
+                                    <li class="nav-item">
+                                        <a class="nav-link ml-4" href="/login">Login</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-item" href="/signup"
+                                            >Signup</a
+                                        >
+                                    </li>
+                                </ul>
+                            <% } %>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </div>
+</header>

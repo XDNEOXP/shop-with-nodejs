@@ -1,0 +1,902 @@
+[
+    {
+        "id": "6bb08ea3-eaac-49d0-afb6-0dd47f4ff6b2",
+        "name": "Biflex",
+        "description": "Laborum non duis do magna. Duis fugiat occaecat ad sunt ut excepteur velit amet velit. Laborum officia cupidatat magna dolore.\r\n",
+        "img": "assets/img/product/product8.png,assets/img/product/product7.png",
+        "price": 5794,
+        "category_id": 1006,
+        "created_at": "2015-09-02"
+    },
+    {
+        "id": "bbb220d6-4e2e-4d99-a2e2-20a6b9ea1f2c",
+        "name": "Zuvy",
+        "description": "Elit duis velit eu ex cillum excepteur. Adipisicing esse dolore ea ex minim dolor consequat nostrud labore cupidatat. Adipisicing proident id consectetur mollit irure sunt sint consequat ipsum aliquip eiusmod excepteur laboris cillum.\r\n",
+        "img": "assets/img/product/product8.png,assets/img/product/product8.png",
+        "price": 2297,
+        "category_id": 1010,
+        "created_at": "2022-11-23"
+    },
+    {
+        "id": "e3d69b20-a0d2-4c19-9878-fb54a7fd4345",
+        "name": "Schoolio",
+        "description": "Consectetur Lorem anim fugiat elit veniam dolore amet eiusmod esse. Consequat ad quis enim qui eu aliqua deserunt fugiat qui non Lorem ut do id. Ipsum consectetur voluptate esse cillum nulla excepteur amet ut esse id.\r\n",
+        "img": "assets/img/product/product5.png,assets/img/product/product6.png",
+        "price": 4471,
+        "category_id": 1005,
+        "created_at": "2022-05-22"
+    },
+    {
+        "id": "0bfaa9c5-84e9-4e43-a263-dab2016eb17c",
+        "name": "Silodyne",
+        "description": "Occaecat incididunt aliquip est sint aliquip culpa cupidatat quis. Id aliqua proident dolore Lorem incididunt elit eiusmod ex sunt ut cillum sit mollit. Aute ex aute voluptate pariatur esse magna nostrud cupidatat. Veniam officia labore occaecat aliquip labore velit id reprehenderit exercitation. Anim magna nulla id laborum excepteur elit nisi fugiat.\r\n",
+        "img": "assets/img/product/product2.png,assets/img/product/product7.png",
+        "price": 2283,
+        "category_id": 1010,
+        "created_at": "2015-10-08"
+    },
+    {
+        "id": "39adfc40-813c-47ba-973b-a6f6fa703a00",
+        "name": "Olucore",
+        "description": "Enim nostrud occaecat cupidatat commodo reprehenderit est id ea do deserunt. Anim duis aliquip laboris est sit anim occaecat sint exercitation mollit dolor irure dolor quis. Aute irure enim ea in amet nisi incididunt ut nisi occaecat. Lorem eiusmod ad est sunt non non aliqua ad in occaecat duis nisi dolor anim.\r\n",
+        "img": "assets/img/product/product7.png,assets/img/product/product1.png",
+        "price": 4389,
+        "category_id": 1002,
+        "created_at": "2019-03-14"
+    },
+    {
+        "id": "4344ef75-0417-4bc8-acae-7ac9ba1ee7ab",
+        "name": "Automon",
+        "description": "Dolore dolor sint deserunt aliquip duis exercitation laborum Lorem. Eu cupidatat nostrud sint aliqua eu amet voluptate. Eu laborum consequat non irure do cupidatat enim sit ut incididunt commodo in nostrud exercitation. Anim adipisicing eiusmod anim sunt Lorem commodo commodo sint cillum do ut aliquip et nulla.\r\n",
+        "img": "assets/img/product/product1.png,assets/img/product/product6.png",
+        "price": 3775,
+        "category_id": 1005,
+        "created_at": "2023-03-22"
+    },
+    {
+        "id": "8620c1e3-c18e-449a-b20f-fdeef49fce87",
+        "name": "Imkan",
+        "description": "Nulla est proident dolor consectetur quis consequat pariatur eiusmod eu nulla. Tempor laboris dolor laborum veniam Lorem consectetur amet pariatur magna nisi irure. Incididunt proident nisi officia esse ipsum non aliqua adipisicing magna laboris deserunt. Cupidatat eu dolore Lorem reprehenderit aliquip consectetur sunt elit. Eiusmod veniam ad nostrud in proident. Incididunt nostrud est laborum ut eu Lorem incididunt eiusmod velit ut eiusmod incididunt mollit fugiat. Aliquip cupidatat eiusmod nulla in nisi do non sit consequat ipsum qui.\r\n",
+        "img": "assets/img/product/product6.png,assets/img/product/product4.png",
+        "price": 9100,
+        "category_id": 1005,
+        "created_at": "2016-11-03"
+    },
+    {
+        "id": "7fd67356-d880-45d5-b3bc-ae794d6b0516",
+        "name": "Gink",
+        "description": "Elit exercitation nisi Lorem est. Cupidatat duis irure Lorem nulla fugiat excepteur pariatur excepteur laborum ullamco. Ea non sint nulla occaecat do aliqua.\r\n",
+        "img": "assets/img/product/product6.png,assets/img/product/product3.png",
+        "price": 1265,
+        "category_id": 1003,
+        "created_at": "2016-10-26"
+    },
+    {
+        "id": "998bb621-fba1-4d4f-9528-634dca80379b",
+        "name": "Circum",
+        "description": "Veniam ullamco esse excepteur velit dolore laborum cupidatat exercitation deserunt sunt aute ex labore. Reprehenderit tempor cillum nisi eu proident elit nisi ea culpa velit pariatur. Laboris nisi labore laborum nostrud. Duis anim quis voluptate pariatur commodo velit aute velit. Aute mollit aute do consectetur anim nulla enim elit. Qui irure ex nulla veniam reprehenderit amet cupidatat sit cillum.\r\n",
+        "img": "assets/img/product/product3.png,assets/img/product/product2.png",
+        "price": 3562,
+        "category_id": 1001,
+        "created_at": "2022-08-18"
+    },
+    {
+        "id": "85cddf72-fca1-44a8-b6ed-1ae0cf94a336",
+        "name": "Combot",
+        "description": "Ea pariatur culpa dolor aliqua consectetur excepteur non velit anim quis pariatur. Irure tempor deserunt dolor laboris. Officia elit anim sint esse et occaecat laborum dolor Lorem ex reprehenderit. Ad reprehenderit nulla ad magna anim esse duis sit fugiat eu occaecat consequat ullamco dolore.\r\n",
+        "img": "assets/img/product/product7.png,assets/img/product/product5.png",
+        "price": 8858,
+        "category_id": 1006,
+        "created_at": "2022-06-27"
+    },
+    {
+        "id": "d852ad6a-261e-4b8b-9611-1919dfaeeecb",
+        "name": "Glasstep",
+        "description": "Ad adipisicing cupidatat fugiat ea. Incididunt excepteur tempor esse consectetur est exercitation aliquip anim esse aute. Eu sint Lorem consequat in eiusmod nostrud exercitation aute culpa tempor et.\r\n",
+        "img": "assets/img/product/product8.png,assets/img/product/product1.png",
+        "price": 2318,
+        "category_id": 1009,
+        "created_at": "2020-07-27"
+    },
+    {
+        "id": "a72e35e1-9afe-4e55-85c9-49e2a834c59e",
+        "name": "Qiao",
+        "description": "Nostrud nulla sunt proident eiusmod aute et mollit cupidatat ea anim. Adipisicing excepteur cupidatat eu elit aliqua tempor incididunt reprehenderit labore. Nisi eiusmod proident aliqua et ipsum veniam magna adipisicing occaecat magna. Mollit aute duis eu labore sint deserunt exercitation mollit quis magna exercitation ipsum. Nisi mollit veniam ullamco laborum ad. Quis officia eu laboris eiusmod duis veniam velit sunt sunt.\r\n",
+        "img": "assets/img/product/product5.png,assets/img/product/product7.png",
+        "price": 5855,
+        "category_id": 1004,
+        "created_at": "2023-03-03"
+    },
+    {
+        "id": "519ab4da-982f-443d-aef9-a2a91151e640",
+        "name": "Interodeo",
+        "description": "Quis amet laboris voluptate ex ad amet mollit fugiat ipsum minim eiusmod aliqua esse. Excepteur occaecat aute commodo est culpa deserunt incididunt reprehenderit. Nostrud sint ipsum eiusmod eiusmod non proident dolor in.\r\n",
+        "img": "assets/img/product/product6.png,assets/img/product/product6.png",
+        "price": 6443,
+        "category_id": 1005,
+        "created_at": "2018-02-25"
+    },
+    {
+        "id": "ac830c3b-e857-4400-9070-dd655580add2",
+        "name": "Exerta",
+        "description": "Fugiat aute non dolore amet Lorem nulla in. Lorem laboris ad in dolor velit ex cupidatat esse. Occaecat proident sunt do magna ullamco do ipsum esse proident do veniam. Ipsum mollit mollit est nostrud in sunt veniam duis quis minim ipsum. Enim et aute aliquip fugiat.\r\n",
+        "img": "assets/img/product/product7.png,assets/img/product/product1.png",
+        "price": 3653,
+        "category_id": 1006,
+        "created_at": "2020-11-27"
+    },
+    {
+        "id": "02d211ec-6f7e-4fa5-aedf-38bbfefa5d9b",
+        "name": "Eplosion",
+        "description": "Nulla deserunt commodo dolore minim ullamco deserunt irure consectetur occaecat voluptate pariatur. Voluptate anim ea duis deserunt aliquip. Aliquip ut dolore consequat esse labore ea non esse deserunt ad veniam reprehenderit culpa do. Officia sint deserunt exercitation est fugiat esse cillum dolor esse duis.\r\n",
+        "img": "assets/img/product/product5.png,assets/img/product/product8.png",
+        "price": 4578,
+        "category_id": 1008,
+        "created_at": "2018-09-11"
+    },
+    {
+        "id": "4118d5fe-14cc-488a-9828-ab1812a647d7",
+        "name": "Fanfare",
+        "description": "Consectetur dolore culpa laborum voluptate. Voluptate veniam aute duis adipisicing nulla occaecat do non. Veniam consectetur occaecat elit incididunt id ut exercitation. Duis deserunt et consectetur elit incididunt irure et occaecat proident sint. Fugiat officia enim sint voluptate nisi aute cillum. Sint anim anim irure id.\r\n",
+        "img": "assets/img/product/product7.png,assets/img/product/product4.png",
+        "price": 1735,
+        "category_id": 1006,
+        "created_at": "2015-11-03"
+    },
+    {
+        "id": "8150e23f-f907-4249-90d3-d42ab86a9dbf",
+        "name": "Phormula",
+        "description": "Voluptate velit do nisi duis laborum proident ut cillum cillum ullamco. Ipsum elit exercitation dolore est aliquip occaecat veniam et ut. Irure ut dolor quis mollit elit officia incididunt duis labore ullamco ipsum labore. Esse est sint nostrud excepteur consequat aute in enim cillum cupidatat quis elit. Lorem sit reprehenderit magna et exercitation. Mollit irure sit nulla deserunt exercitation culpa et irure do aute. Labore in incididunt ad elit.\r\n",
+        "img": "assets/img/product/product6.png,assets/img/product/product1.png",
+        "price": 6062,
+        "category_id": 1007,
+        "created_at": "2019-01-08"
+    },
+    {
+        "id": "a220a1fe-cb58-4e61-b69d-adb00701397a",
+        "name": "Snowpoke",
+        "description": "Do commodo dolore Lorem nulla amet cillum id ullamco consectetur laboris. Eiusmod anim enim labore ex. Minim non duis aliquip consequat nostrud et veniam. Duis cupidatat enim quis ipsum labore. Duis pariatur labore enim aliqua et dolore nisi cillum mollit. Eiusmod Lorem nisi eu cillum irure reprehenderit amet sit nostrud.\r\n",
+        "img": "assets/img/product/product5.png,assets/img/product/product3.png",
+        "price": 8984,
+        "category_id": 1002,
+        "created_at": "2016-10-24"
+    },
+    {
+        "id": "f80ecb3d-b070-43d1-a24e-e5f2c63cefbd",
+        "name": "Terragen",
+        "description": "Mollit dolor dolore est ut proident enim excepteur esse deserunt. Duis laboris veniam sit laboris sit consequat. Commodo minim commodo occaecat sunt commodo et. Et reprehenderit commodo exercitation officia amet esse. Laboris cupidatat exercitation nisi sint commodo commodo amet. Proident fugiat occaecat est incididunt amet nisi amet. Lorem ut reprehenderit ad ad amet amet dolore nostrud ullamco.\r\n",
+        "img": "assets/img/product/product8.png,assets/img/product/product3.png",
+        "price": 4090,
+        "category_id": 1004,
+        "created_at": "2018-04-05"
+    },
+    {
+        "id": "1052a559-dcbf-4aa8-9410-0a99b708063c",
+        "name": "Oronoko",
+        "description": "Enim laborum sint occaecat ex aliqua cupidatat aute laboris fugiat. Magna qui commodo sint qui nostrud proident laborum non. Exercitation aliquip esse nisi aliquip mollit esse excepteur consequat aliquip id. Deserunt exercitation minim excepteur esse laboris sunt sunt aliquip enim culpa. Eiusmod commodo nostrud reprehenderit occaecat.\r\n",
+        "img": "assets/img/product/product3.png,assets/img/product/product8.png",
+        "price": 9647,
+        "category_id": 1007,
+        "created_at": "2020-09-19"
+    },
+    {
+        "id": "f42d3871-5d94-41a5-9018-6ecf020168b0",
+        "name": "Plutorque",
+        "description": "Magna laboris ut sunt consequat non officia. Eu aliqua magna elit tempor Lorem cillum ipsum ex id officia. Esse pariatur ad aute sit commodo. Consequat minim et pariatur cupidatat. Consequat sit mollit est ex cillum. Nostrud mollit irure proident veniam fugiat aliquip magna laboris reprehenderit cillum.\r\n",
+        "img": "assets/img/product/product1.png,assets/img/product/product1.png",
+        "price": 3389,
+        "category_id": 1002,
+        "created_at": "2022-11-07"
+    },
+    {
+        "id": "ce973d94-a6c0-4376-9342-52c76a010a7c",
+        "name": "Qot",
+        "description": "Sunt quis consectetur nisi ullamco officia mollit tempor cupidatat. Deserunt magna laborum veniam ea in cillum exercitation. Duis amet Lorem reprehenderit fugiat excepteur deserunt velit. Occaecat eu mollit ad nulla pariatur laboris velit labore tempor Lorem amet aliquip.\r\n",
+        "img": "assets/img/product/product6.png,assets/img/product/product4.png",
+        "price": 1996,
+        "category_id": 1008,
+        "created_at": "2017-10-18"
+    },
+    {
+        "id": "1ab9c33e-1150-4926-ad4c-d60ad942bf4b",
+        "name": "Protodyne",
+        "description": "Ea culpa occaecat dolor sint non esse id eiusmod labore magna occaecat nulla magna laboris. Deserunt consectetur do Lorem ut voluptate ullamco ut sint amet irure reprehenderit. Nisi culpa irure elit duis commodo enim velit. Incididunt ullamco amet non minim ipsum ea commodo laborum aute nisi veniam voluptate eu nostrud. Ad laboris in adipisicing Lorem nisi tempor eu.\r\n",
+        "img": "assets/img/product/product1.png,assets/img/product/product5.png",
+        "price": 1641,
+        "category_id": 1010,
+        "created_at": "2019-06-19"
+    },
+    {
+        "id": "223f94c1-c709-46a5-96ee-407fbfec420d",
+        "name": "Quizka",
+        "description": "Deserunt id anim aliqua quis. Ad cillum pariatur pariatur eiusmod dolor nulla ad sit. Consectetur esse ipsum ad esse cillum adipisicing velit deserunt dolore ex.\r\n",
+        "img": "assets/img/product/product7.png,assets/img/product/product3.png",
+        "price": 1223,
+        "category_id": 1001,
+        "created_at": "2022-11-29"
+    },
+    {
+        "id": "f072fa27-9536-4be8-a194-980954b2d7a2",
+        "name": "Qimonk",
+        "description": "Duis nisi fugiat duis magna irure labore. Dolore occaecat laboris sit nulla do incididunt consequat qui ipsum est nulla. Adipisicing velit sunt do exercitation. Consequat in dolor reprehenderit elit in non velit et proident. Pariatur deserunt aliquip ea ut Lorem dolore irure dolore qui irure. Proident est reprehenderit laboris id cupidatat magna.\r\n",
+        "img": "assets/img/product/product1.png,assets/img/product/product1.png",
+        "price": 6662,
+        "category_id": 1004,
+        "created_at": "2016-11-19"
+    },
+    {
+        "id": "45bcc818-1cee-4514-b9bc-362073b9246a",
+        "name": "Golistic",
+        "description": "Nulla proident laborum dolore excepteur laborum aute reprehenderit ea exercitation consequat adipisicing. Elit proident mollit exercitation culpa velit qui et dolore. Exercitation minim sunt irure et dolor aliquip minim in occaecat magna non nulla. Eu ea voluptate elit ea cillum ut ex occaecat est et sit sit mollit. Laborum excepteur sit magna mollit est pariatur voluptate irure.\r\n",
+        "img": "assets/img/product/product7.png,assets/img/product/product1.png",
+        "price": 6568,
+        "category_id": 1002,
+        "created_at": "2016-11-11"
+    },
+    {
+        "id": "057bb063-c3b5-4783-89e6-b8093de38b21",
+        "name": "Collaire",
+        "description": "Nostrud laborum eu in consectetur id Lorem fugiat consequat cillum do nisi et adipisicing. Do labore ut pariatur cillum cillum esse quis consectetur nulla. Tempor ipsum irure veniam non minim sunt aliqua veniam adipisicing est ad ipsum qui elit.\r\n",
+        "img": "assets/img/product/product6.png,assets/img/product/product1.png",
+        "price": 9777,
+        "category_id": 1004,
+        "created_at": "2015-05-31"
+    },
+    {
+        "id": "9bd65be5-4076-424d-ae3c-0aa06e92939e",
+        "name": "Pyramis",
+        "description": "Quis magna minim cillum aute aute amet qui quis nostrud ullamco. Incididunt commodo eu non nisi ipsum culpa commodo non enim nisi eiusmod dolor sit. Occaecat nulla veniam labore dolore veniam aliquip ipsum occaecat culpa nulla consequat. Et enim minim commodo elit veniam cillum ea. Laborum nulla eu eiusmod esse deserunt ad. Qui in incididunt tempor ex magna irure cupidatat laborum.\r\n",
+        "img": "assets/img/product/product7.png,assets/img/product/product4.png",
+        "price": 1279,
+        "category_id": 1005,
+        "created_at": "2019-01-22"
+    },
+    {
+        "id": "e1032723-70c4-40df-8fd1-6f842bbc3616",
+        "name": "Cipromox",
+        "description": "Dolore veniam ad nulla magna consequat reprehenderit esse ullamco duis. Ipsum minim in nostrud veniam et. Excepteur dolore Lorem voluptate laboris anim do nostrud. Minim velit nisi in nisi voluptate tempor irure veniam veniam. Anim mollit elit labore eu ea aliquip esse dolore elit cupidatat et deserunt veniam.\r\n",
+        "img": "assets/img/product/product1.png,assets/img/product/product3.png",
+        "price": 3284,
+        "category_id": 1003,
+        "created_at": "2022-08-21"
+    },
+    {
+        "id": "e8f96be7-c0e8-471c-91c3-a414f389f192",
+        "name": "Combogen",
+        "description": "Duis eiusmod qui enim laborum ullamco exercitation sint sit. Esse veniam anim irure nostrud. Et commodo commodo aute officia mollit id do dolor Lorem pariatur exercitation veniam esse. Et ipsum eu irure minim.\r\n",
+        "img": "assets/img/product/product5.png,assets/img/product/product1.png",
+        "price": 1244,
+        "category_id": 1005,
+        "created_at": "2023-11-03"
+    },
+    {
+        "id": "1e37a8bf-3fac-49ee-8377-a5f4bd4b75d2",
+        "name": "Quadeebo",
+        "description": "Cillum duis cupidatat dolor non ullamco ea nulla veniam ad nisi id. Et duis est duis consequat sint tempor tempor aute. Amet nostrud dolor anim fugiat dolor in nisi ea. Est duis mollit nulla non veniam culpa sint ex Lorem. Pariatur commodo dolor ullamco veniam magna eiusmod reprehenderit exercitation nisi culpa aliqua culpa.\r\n",
+        "img": "assets/img/product/product2.png,assets/img/product/product4.png",
+        "price": 3236,
+        "category_id": 1005,
+        "created_at": "2015-03-21"
+    },
+    {
+        "id": "e9c0f375-ed13-4114-a6c5-8bf719434b38",
+        "name": "Emergent",
+        "description": "Non ut culpa cillum velit labore nisi dolore amet sint in ad sint duis. Enim ea officia consectetur quis et laborum officia. Amet culpa ea dolor sit nisi deserunt labore aliquip anim eiusmod.\r\n",
+        "img": "assets/img/product/product2.png,assets/img/product/product3.png",
+        "price": 8649,
+        "category_id": 1002,
+        "created_at": "2022-08-08"
+    },
+    {
+        "id": "522b17ba-71b0-41d5-b1e7-a52eebe6ae3d",
+        "name": "Orbalix",
+        "description": "Commodo consequat nulla officia minim laborum reprehenderit anim aliquip quis sit dolore eu ex. Occaecat fugiat anim culpa velit proident adipisicing pariatur anim consequat proident. Tempor tempor nisi laboris officia do anim reprehenderit pariatur sunt. Consectetur id aliquip ad dolore occaecat. Eu minim sit amet laboris cillum ipsum voluptate dolor eiusmod nostrud. Tempor duis fugiat esse cillum ut laborum. Ullamco veniam reprehenderit consequat ex.\r\n",
+        "img": "assets/img/product/product2.png,assets/img/product/product7.png",
+        "price": 2227,
+        "category_id": 1006,
+        "created_at": "2022-11-04"
+    },
+    {
+        "id": "55173c6b-2900-4ce9-840a-ea64e8ec606c",
+        "name": "Hometown",
+        "description": "Pariatur excepteur consectetur enim labore eiusmod aliqua elit laborum reprehenderit laborum. Laborum voluptate est quis qui duis labore. Qui est qui sit irure pariatur est nisi pariatur occaecat id ex elit. Cupidatat labore do aliqua incididunt cillum ex tempor. Consectetur incididunt voluptate adipisicing minim exercitation est laboris aute.\r\n",
+        "img": "assets/img/product/product1.png,assets/img/product/product2.png",
+        "price": 4891,
+        "category_id": 1007,
+        "created_at": "2019-12-12"
+    },
+    {
+        "id": "72c6087d-814f-4a29-86ab-0afade222467",
+        "name": "Kengen",
+        "description": "Et velit aliqua veniam deserunt laborum eiusmod nostrud voluptate voluptate aliquip. Magna adipisicing occaecat minim incididunt elit cupidatat aute. Veniam ad consectetur nisi proident commodo aliqua ea. Reprehenderit id sint aliquip in. Ad ullamco ut et eu quis nisi elit do officia est. Voluptate eiusmod anim excepteur do fugiat quis culpa est.\r\n",
+        "img": "assets/img/product/product8.png,assets/img/product/product8.png",
+        "price": 3353,
+        "category_id": 1003,
+        "created_at": "2015-07-26"
+    },
+    {
+        "id": "e69f7693-77dc-4499-a1ab-404adaaf2167",
+        "name": "Mobildata",
+        "description": "Labore sit exercitation Lorem sit. Duis veniam ea pariatur est culpa culpa magna esse et eu consectetur ullamco ullamco. Qui laboris quis pariatur occaecat sit pariatur veniam. Consectetur nostrud reprehenderit consequat ipsum exercitation id esse ipsum. Ea ipsum adipisicing culpa amet dolore dolor et elit excepteur enim Lorem pariatur. Deserunt pariatur ad quis id id occaecat nostrud. Occaecat tempor aliquip est veniam aliquip voluptate irure.\r\n",
+        "img": "assets/img/product/product1.png,assets/img/product/product3.png",
+        "price": 8312,
+        "category_id": 1009,
+        "created_at": "2018-06-10"
+    },
+    {
+        "id": "f1ae33d8-030e-464e-834f-104f4aa62981",
+        "name": "Neteria",
+        "description": "Dolor exercitation eu incididunt laborum non occaecat in occaecat magna ad minim cillum id dolor. Tempor id cillum commodo proident adipisicing minim officia in laboris. Sunt non ipsum ut cupidatat. Cillum id excepteur eu mollit aliquip cupidatat sunt. Dolore velit duis deserunt sint tempor aliqua nostrud qui esse est. Id consequat labore officia Lorem ullamco qui ullamco culpa anim. Nulla duis sint voluptate culpa qui magna cillum irure incididunt labore magna irure minim.\r\n",
+        "img": "assets/img/product/product4.png,assets/img/product/product7.png",
+        "price": 5026,
+        "category_id": 1005,
+        "created_at": "2020-07-21"
+    },
+    {
+        "id": "e77c65dd-a6b4-4e47-b1d6-dd24f1231c16",
+        "name": "Asimiline",
+        "description": "Ut veniam proident irure eiusmod nostrud duis proident officia officia id aliquip anim. Occaecat veniam voluptate elit fugiat do enim exercitation nisi. Ullamco et nostrud tempor esse eu aliqua. Dolore non ex occaecat ad quis ipsum nulla non aliquip fugiat velit velit cupidatat veniam.\r\n",
+        "img": "assets/img/product/product1.png,assets/img/product/product6.png",
+        "price": 7660,
+        "category_id": 1002,
+        "created_at": "2015-01-11"
+    },
+    {
+        "id": "3c5e64b3-beb6-491e-abe4-c74c67777dc1",
+        "name": "Anarco",
+        "description": "Aliqua non elit sunt labore duis nisi officia elit enim nulla deserunt elit. Tempor non nostrud id ad et non id est laboris occaecat incididunt anim id aliquip. Veniam laboris irure consequat in voluptate ea magna ea laboris. In Lorem nisi do aliqua ut reprehenderit.\r\n",
+        "img": "assets/img/product/product7.png,assets/img/product/product5.png",
+        "price": 5794,
+        "category_id": 1010,
+        "created_at": "2022-01-12"
+    },
+    {
+        "id": "25b92e4e-1685-4169-8728-4d2d7f126655",
+        "name": "Biospan",
+        "description": "Irure velit quis adipisicing enim incididunt in aliqua ea laborum minim. Pariatur elit non fugiat fugiat ut ad. Pariatur consectetur non qui do proident sunt ut minim labore aliqua.\r\n",
+        "img": "assets/img/product/product2.png,assets/img/product/product5.png",
+        "price": 9296,
+        "category_id": 1005,
+        "created_at": "2020-06-07"
+    },
+    {
+        "id": "96b9315c-a9e0-44d4-a456-80fb06b3ce05",
+        "name": "Zillactic",
+        "description": "Laborum laboris quis id ipsum dolore sit. Velit fugiat irure adipisicing elit amet eiusmod eiusmod laboris. Ullamco id nisi ex enim laboris culpa dolore ad labore sint exercitation. Dolore excepteur ipsum sit laborum ex. Velit non eiusmod incididunt esse minim id fugiat officia consequat ea. Ex minim reprehenderit Lorem Lorem id reprehenderit minim. Aute duis esse ullamco sunt cillum exercitation elit id duis culpa laboris occaecat pariatur sunt.\r\n",
+        "img": "assets/img/product/product4.png,assets/img/product/product7.png",
+        "price": 3668,
+        "category_id": 1001,
+        "created_at": "2022-06-06"
+    },
+    {
+        "id": "5a4fdeba-478b-4671-83ef-bb4c0e0703d3",
+        "name": "Extro",
+        "description": "Ullamco consectetur dolore occaecat culpa. Mollit occaecat deserunt quis labore eu nisi id ut in culpa officia proident enim. Veniam in duis veniam officia adipisicing labore ad quis. Do veniam non nisi incididunt aliqua nostrud anim incididunt laborum velit non nostrud reprehenderit. In enim exercitation commodo aliquip consequat aliqua. Pariatur laboris laborum laboris adipisicing sunt esse amet dolore dolore sit elit tempor ea. Pariatur voluptate cupidatat id fugiat cupidatat duis cillum qui duis adipisicing cupidatat magna laborum.\r\n",
+        "img": "assets/img/product/product6.png,assets/img/product/product6.png",
+        "price": 5264,
+        "category_id": 1008,
+        "created_at": "2017-07-20"
+    },
+    {
+        "id": "ba37c4c1-d0a8-44d3-afae-30e6f55c722e",
+        "name": "Fossiel",
+        "description": "Lorem laborum velit consectetur sint labore aute do culpa ea irure. Excepteur duis ad sit id. Eu do sint ipsum aute qui et eiusmod aliqua aute commodo sit Lorem qui. Quis exercitation Lorem consequat fugiat cillum minim amet consequat occaecat consequat adipisicing cupidatat excepteur. Voluptate occaecat dolore Lorem sunt incididunt culpa in sint.\r\n",
+        "img": "assets/img/product/product3.png,assets/img/product/product2.png",
+        "price": 8004,
+        "category_id": 1009,
+        "created_at": "2015-09-12"
+    },
+    {
+        "id": "6412f628-d9be-4381-8797-c60ef5b33832",
+        "name": "Wrapture",
+        "description": "Commodo proident in eiusmod officia nostrud deserunt labore deserunt et fugiat. Qui fugiat minim cillum culpa labore cupidatat est proident incididunt enim ad sint cillum exercitation. Sit ex id reprehenderit laboris ut commodo deserunt ullamco.\r\n",
+        "img": "assets/img/product/product3.png,assets/img/product/product1.png",
+        "price": 5128,
+        "category_id": 1007,
+        "created_at": "2016-06-29"
+    },
+    {
+        "id": "b021cf7a-2e7b-4a12-8de3-e32157ade20e",
+        "name": "Techmania",
+        "description": "Elit aliquip commodo qui consequat minim culpa id cupidatat labore. Id nisi voluptate Lorem irure dolore velit excepteur aliqua nostrud fugiat exercitation commodo eu nulla. Ut tempor fugiat ullamco ea ad reprehenderit aute culpa officia nisi do. Cupidatat ea duis commodo voluptate incididunt et ex dolor. Incididunt sunt elit laboris pariatur consequat dolor commodo est. Ex eu qui ad cillum pariatur id.\r\n",
+        "img": "assets/img/product/product6.png,assets/img/product/product5.png",
+        "price": 1137,
+        "category_id": 1003,
+        "created_at": "2024-01-20"
+    },
+    {
+        "id": "b2e80ccf-dc88-47b0-8048-a3d4eef28f54",
+        "name": "Exoteric",
+        "description": "Proident consectetur sint dolor exercitation esse quis pariatur aute mollit Lorem. Tempor minim ea et officia labore elit voluptate ullamco. Occaecat velit laborum voluptate officia Lorem velit do occaecat aliqua nostrud. Sunt incididunt in eu fugiat dolore veniam dolore culpa. Dolore ea cupidatat quis laborum culpa non sint sit irure sunt consequat incididunt pariatur et. Fugiat ullamco laborum sunt amet et voluptate irure qui do aute ut ad. Irure nisi excepteur pariatur dolor nulla quis enim nisi dolor reprehenderit magna adipisicing sit.\r\n",
+        "img": "assets/img/product/product3.png,assets/img/product/product1.png",
+        "price": 6275,
+        "category_id": 1001,
+        "created_at": "2016-01-13"
+    },
+    {
+        "id": "169110a7-a5f8-4eef-911e-1a8c2da38fec",
+        "name": "Accusage",
+        "description": "Quis veniam non labore eiusmod mollit nisi id enim labore ipsum officia irure. Non quis do amet magna nulla esse velit ut duis irure. Laboris esse nostrud consectetur sint anim. Enim reprehenderit quis adipisicing incididunt proident veniam proident duis dolor sit. Sunt aute reprehenderit laborum cupidatat duis amet velit consectetur ad occaecat veniam. Tempor esse consectetur mollit dolore tempor labore.\r\n",
+        "img": "assets/img/product/product2.png,assets/img/product/product1.png",
+        "price": 3748,
+        "category_id": 1009,
+        "created_at": "2019-12-31"
+    },
+    {
+        "id": "d14ff5fb-4bc3-4d28-93ef-5bd1fac66a85",
+        "name": "Sureplex",
+        "description": "Aliquip exercitation reprehenderit nisi ex magna laborum incididunt aute sint ad. Minim sunt consectetur Lorem anim est nostrud officia ullamco. Adipisicing cupidatat minim dolore cillum. Anim fugiat minim reprehenderit duis pariatur ut adipisicing velit commodo incididunt cupidatat eiusmod laboris proident. Laborum laboris labore id laborum voluptate et est fugiat ullamco et in duis. Laboris nulla eu labore occaecat culpa. Incididunt excepteur dolor id ut esse adipisicing.\r\n",
+        "img": "assets/img/product/product8.png,assets/img/product/product7.png",
+        "price": 7212,
+        "category_id": 1010,
+        "created_at": "2019-01-23"
+    },
+    {
+        "id": "a866046f-1708-46f9-a2da-bdaefe47d4c2",
+        "name": "Manufact",
+        "description": "Sit eu eiusmod exercitation non sint sunt id duis. Dolore fugiat dolore laboris cillum pariatur minim ex adipisicing do dolore non. Incididunt dolor laboris sunt pariatur ex ex.\r\n",
+        "img": "assets/img/product/product2.png,assets/img/product/product3.png",
+        "price": 1072,
+        "category_id": 1008,
+        "created_at": "2014-07-28"
+    },
+    {
+        "id": "fd227aea-41ef-4352-bb87-8d54b8f9a2c7",
+        "name": "Musaphics",
+        "description": "Dolore sit proident deserunt ea sunt deserunt esse aute. Non in cupidatat deserunt anim nisi anim cupidatat exercitation tempor ex aliqua quis cillum. Nulla tempor reprehenderit occaecat consectetur ipsum mollit est ea do do eu minim aute est.\r\n",
+        "img": "assets/img/product/product4.png,assets/img/product/product8.png",
+        "price": 1700,
+        "category_id": 1001,
+        "created_at": "2024-03-02"
+    },
+    {
+        "id": "5f23edd4-6387-44e7-81e5-cd1b8bb16949",
+        "name": "Exospace",
+        "description": "Sint cupidatat veniam nisi commodo tempor. Consectetur do dolore enim Lorem ullamco occaecat. Excepteur mollit officia non excepteur nisi. Adipisicing qui quis incididunt excepteur occaecat velit exercitation mollit velit in commodo. In nulla officia adipisicing occaecat consectetur cupidatat cillum sunt.\r\n",
+        "img": "assets/img/product/product3.png,assets/img/product/product3.png",
+        "price": 1965,
+        "category_id": 1007,
+        "created_at": "2019-07-16"
+    },
+    {
+        "id": "b7da3064-e993-4477-9e7c-18e7995b3bf7",
+        "name": "Rugstars",
+        "description": "Dolore magna dolore proident nisi qui irure officia excepteur eu occaecat ipsum in. Amet in qui sit velit quis nisi minim dolor ullamco tempor incididunt. Ad nostrud cupidatat fugiat irure tempor culpa consectetur velit quis culpa. Ut ut anim tempor exercitation irure. Voluptate veniam ad cupidatat nostrud non dolore et ex aute ex anim occaecat voluptate. Esse enim ipsum anim sit aute nisi amet esse nulla cupidatat ipsum et id.\r\n",
+        "img": "assets/img/product/product1.png,assets/img/product/product7.png",
+        "price": 7712,
+        "category_id": 1001,
+        "created_at": "2021-08-07"
+    },
+    {
+        "id": "22eb8f6c-8086-4e3f-b926-3145c91b979d",
+        "name": "Premiant",
+        "description": "Quis excepteur adipisicing ad enim laborum est. Proident aliquip magna aute ipsum elit laborum eu proident proident esse Lorem Lorem. Voluptate nulla Lorem commodo eu ad nisi dolor consectetur occaecat labore tempor ullamco exercitation cillum. Ex ad aute exercitation proident amet dolor proident.\r\n",
+        "img": "assets/img/product/product3.png,assets/img/product/product6.png",
+        "price": 7468,
+        "category_id": 1004,
+        "created_at": "2016-07-04"
+    },
+    {
+        "id": "3ae94b81-9227-44db-95c4-cd9143ea139e",
+        "name": "Rodeology",
+        "description": "Ullamco quis id reprehenderit eiusmod enim voluptate dolore. Elit eu nulla irure aliquip culpa dolore ut cillum Lorem officia. Excepteur eiusmod irure velit duis.\r\n",
+        "img": "assets/img/product/product7.png,assets/img/product/product5.png",
+        "price": 1128,
+        "category_id": 1010,
+        "created_at": "2021-09-03"
+    },
+    {
+        "id": "cb1b1e4b-e323-4656-bab7-b43860812246",
+        "name": "Bolax",
+        "description": "Minim nostrud esse excepteur sit eu ullamco labore duis. Do consequat aliquip ipsum ea velit aliqua. Minim aliqua anim Lorem cillum minim esse sit nulla. Esse deserunt cillum dolore velit elit.\r\n",
+        "img": "assets/img/product/product5.png,assets/img/product/product2.png",
+        "price": 6278,
+        "category_id": 1009,
+        "created_at": "2018-11-16"
+    },
+    {
+        "id": "f2aff9c3-12c3-4fa4-bf73-b35dfbb27d4d",
+        "name": "Zeam",
+        "description": "Sit cupidatat cillum aliquip veniam exercitation sit labore commodo officia. Aliquip sint et est elit consequat et. Nulla magna ex dolor irure consequat reprehenderit qui. In velit et magna ut consectetur esse labore eiusmod minim nostrud qui enim ut consequat. Excepteur ut esse commodo velit ullamco.\r\n",
+        "img": "assets/img/product/product2.png,assets/img/product/product6.png",
+        "price": 5196,
+        "category_id": 1004,
+        "created_at": "2017-12-08"
+    },
+    {
+        "id": "094e9c8c-e550-4ccb-ade8-b3850749920c",
+        "name": "Isbol",
+        "description": "Exercitation dolor ut commodo laboris aute sunt sit quis do dolor cillum. Esse ipsum minim occaecat labore ullamco Lorem adipisicing. Occaecat sit pariatur commodo dolore. Esse nulla ea dolor ad amet enim minim dolor ipsum aute fugiat veniam. Velit commodo magna non ex veniam culpa qui pariatur aliqua. Consequat ut nostrud do exercitation id qui. Exercitation tempor eiusmod duis veniam consectetur id elit.\r\n",
+        "img": "assets/img/product/product3.png,assets/img/product/product2.png",
+        "price": 3106,
+        "category_id": 1007,
+        "created_at": "2018-07-02"
+    },
+    {
+        "id": "b368f214-5d12-4057-831d-90d722fe8817",
+        "name": "Octocore",
+        "description": "Dolore duis anim voluptate aliqua dolore commodo commodo veniam minim est. Anim aliquip culpa mollit Lorem officia exercitation magna ullamco officia excepteur esse magna et. Qui id pariatur ad pariatur deserunt qui amet ex incididunt eu eu. Qui consequat ex velit ipsum anim sint culpa mollit excepteur exercitation est ad.\r\n",
+        "img": "assets/img/product/product6.png,assets/img/product/product3.png",
+        "price": 3436,
+        "category_id": 1001,
+        "created_at": "2017-06-01"
+    },
+    {
+        "id": "22123772-325a-4c26-8e16-7840b96efffe",
+        "name": "Lyria",
+        "description": "Nisi ad Lorem pariatur commodo laboris duis amet labore. Ea ut velit minim qui laborum. Laboris do occaecat non tempor sit consequat incididunt ad. Cillum exercitation excepteur ea labore proident fugiat laborum. Qui dolore nisi sint officia ex deserunt cupidatat. Veniam incididunt id aliqua nulla id voluptate esse reprehenderit cupidatat cillum eu.\r\n",
+        "img": "assets/img/product/product8.png,assets/img/product/product4.png",
+        "price": 2821,
+        "category_id": 1005,
+        "created_at": "2018-03-10"
+    },
+    {
+        "id": "ba9af673-63d3-458b-818d-6e7e75fc7521",
+        "name": "Pearlesex",
+        "description": "Eiusmod officia anim consequat excepteur tempor exercitation est fugiat cupidatat ipsum aute eu ea. Excepteur deserunt nulla incididunt consequat. Incididunt magna sunt et non tempor laborum qui esse cupidatat. Quis dolor in culpa voluptate deserunt.\r\n",
+        "img": "assets/img/product/product3.png,assets/img/product/product8.png",
+        "price": 7763,
+        "category_id": 1010,
+        "created_at": "2021-07-22"
+    },
+    {
+        "id": "e080c6f5-b564-473a-a4c0-1ad2a7822417",
+        "name": "Eweville",
+        "description": "In duis non exercitation cupidatat exercitation dolore consequat in magna. Minim proident aliqua amet aute consequat sint aute. Ut aliqua dolor duis pariatur fugiat quis. Reprehenderit dolore ex culpa dolore mollit qui reprehenderit pariatur Lorem consectetur id. Id ad fugiat consequat est labore. Ut voluptate exercitation fugiat dolor exercitation. Deserunt veniam ut elit ut do minim excepteur ad pariatur minim.\r\n",
+        "img": "assets/img/product/product3.png,assets/img/product/product4.png",
+        "price": 7303,
+        "category_id": 1001,
+        "created_at": "2014-10-14"
+    },
+    {
+        "id": "41b51d49-fcd0-4bd9-b7bc-b1ba64eb71b5",
+        "name": "Aquasseur",
+        "description": "Consequat quis aliquip enim nulla qui pariatur ipsum ex exercitation aliqua velit ipsum. Id magna aliquip officia qui. Velit consectetur ex duis aliquip nostrud mollit incididunt dolore.\r\n",
+        "img": "assets/img/product/product8.png,assets/img/product/product3.png",
+        "price": 6217,
+        "category_id": 1006,
+        "created_at": "2020-07-17"
+    },
+    {
+        "id": "ffc5957f-bd14-4d15-9369-b5fd65ccf503",
+        "name": "Recognia",
+        "description": "Aliqua irure sunt nulla ipsum aliquip ipsum Lorem Lorem do sit eu. Mollit sint deserunt occaecat sunt elit non ea aute laboris do ad. Eu excepteur amet irure deserunt nulla deserunt velit sit. Cupidatat magna nisi aliqua non mollit sit velit. Ut id consectetur elit esse veniam.\r\n",
+        "img": "assets/img/product/product8.png,assets/img/product/product6.png",
+        "price": 4094,
+        "category_id": 1009,
+        "created_at": "2020-09-26"
+    },
+    {
+        "id": "c7727366-bf2d-4b6f-a53f-071ff1294624",
+        "name": "Snacktion",
+        "description": "Anim tempor aute laboris velit sit mollit. Qui Lorem exercitation dolor sunt duis eu irure dolor aliquip. Officia laboris nisi ex est quis cillum sit dolor sint veniam nisi consequat ipsum. Anim amet minim occaecat Lorem consequat ex do adipisicing velit nulla magna esse. Elit et veniam nulla sint. Reprehenderit nostrud commodo anim id ipsum laboris labore anim ullamco exercitation consequat nostrud cillum do. Nisi fugiat ea amet sit magna mollit occaecat quis.\r\n",
+        "img": "assets/img/product/product2.png,assets/img/product/product8.png",
+        "price": 8236,
+        "category_id": 1007,
+        "created_at": "2018-01-03"
+    },
+    {
+        "id": "3a88b7be-f923-4ac0-b7eb-a215b664910d",
+        "name": "Supportal",
+        "description": "Consequat commodo sint nisi aliquip nulla et fugiat eiusmod proident mollit. Anim non id quis occaecat et eu. Et ullamco ad et culpa minim nisi mollit.\r\n",
+        "img": "assets/img/product/product8.png,assets/img/product/product3.png",
+        "price": 6381,
+        "category_id": 1008,
+        "created_at": "2014-11-24"
+    },
+    {
+        "id": "253880f5-e043-4de6-933f-d91a2322c8cd",
+        "name": "Harmoney",
+        "description": "Id laboris quis tempor proident irure ut qui nostrud ut eiusmod. Nisi ipsum ullamco proident eu eiusmod magna nisi cillum pariatur ullamco esse tempor nisi dolore. Aute laborum mollit fugiat enim eiusmod sit aliquip laborum excepteur.\r\n",
+        "img": "assets/img/product/product2.png,assets/img/product/product1.png",
+        "price": 8141,
+        "category_id": 1005,
+        "created_at": "2017-01-11"
+    },
+    {
+        "id": "c53a3a2e-96a5-41e3-b1de-acbdf6f87121",
+        "name": "Austech",
+        "description": "Est occaecat voluptate esse veniam exercitation ea officia ut veniam est labore aute occaecat. Sit cupidatat magna amet incididunt aute. Eiusmod deserunt sint aliquip nulla sint veniam et consequat nulla proident reprehenderit labore in. Dolore aliquip do voluptate dolor sint reprehenderit aliqua consectetur dolore duis ad. Dolor nostrud in ut et nostrud ea dolor elit. Eu ut velit anim pariatur aute. Tempor quis veniam reprehenderit nostrud excepteur non eiusmod.\r\n",
+        "img": "assets/img/product/product6.png,assets/img/product/product1.png",
+        "price": 8490,
+        "category_id": 1006,
+        "created_at": "2023-12-29"
+    },
+    {
+        "id": "40fcad65-0a04-48d6-a85a-8764449ff7b9",
+        "name": "Helixo",
+        "description": "Id aute non aute laboris dolor duis esse qui labore qui. Deserunt est ex cupidatat aliqua commodo excepteur irure minim ut commodo labore nulla officia. Sunt dolore aliquip elit veniam sunt consectetur in reprehenderit mollit. Nisi amet in non non dolor labore quis id eiusmod. Commodo fugiat duis enim officia velit minim cupidatat ipsum enim occaecat aute voluptate Lorem. Sunt quis sint anim amet anim minim commodo do.\r\n",
+        "img": "assets/img/product/product7.png,assets/img/product/product1.png",
+        "price": 7265,
+        "category_id": 1008,
+        "created_at": "2022-05-22"
+    },
+    {
+        "id": "1c6773fd-77ee-4394-87ab-3312c5f52ce7",
+        "name": "Obones",
+        "description": "Ex aliqua do velit laborum eu eu magna consequat. Eiusmod quis duis dolore fugiat. Eiusmod exercitation qui voluptate do cupidatat. Excepteur anim est anim et fugiat anim eu laborum in excepteur est labore. Quis aliqua amet culpa ipsum duis aliqua et enim. Elit sit ex reprehenderit sint deserunt elit tempor excepteur in consequat mollit sunt labore labore.\r\n",
+        "img": "assets/img/product/product5.png,assets/img/product/product6.png",
+        "price": 1272,
+        "category_id": 1009,
+        "created_at": "2019-12-24"
+    },
+    {
+        "id": "99a21c3e-4c0a-4ed4-838c-a70acc0a4cb1",
+        "name": "Techtrix",
+        "description": "Ullamco amet reprehenderit commodo ut nulla commodo cupidatat sit dolor incididunt et cillum voluptate. Nisi dolor aliquip quis quis anim officia. Sunt exercitation nulla qui ex deserunt nostrud pariatur do et cupidatat est. Irure do quis consectetur eiusmod sint consectetur commodo Lorem veniam consequat irure tempor cillum laborum. Pariatur id dolor velit nisi et sit laborum nostrud incididunt. Nostrud proident magna in Lorem sint consectetur eiusmod elit id dolor.\r\n",
+        "img": "assets/img/product/product4.png,assets/img/product/product4.png",
+        "price": 2627,
+        "category_id": 1005,
+        "created_at": "2020-06-27"
+    },
+    {
+        "id": "1ef52c38-5ee7-4f05-80a9-a87656c8c9db",
+        "name": "Medmex",
+        "description": "Ipsum id ex laboris ut deserunt commodo Lorem dolore. Quis proident amet consequat minim excepteur adipisicing. Consequat reprehenderit minim ex officia sint et incididunt magna sunt.\r\n",
+        "img": "assets/img/product/product8.png,assets/img/product/product1.png",
+        "price": 2843,
+        "category_id": 1002,
+        "created_at": "2020-05-10"
+    },
+    {
+        "id": "979b2190-e154-44b1-a99f-0a887c985121",
+        "name": "Zosis",
+        "description": "Elit duis labore labore do anim id amet ex ullamco ullamco. Eu magna deserunt laborum Lorem consequat ut. Elit id duis nulla fugiat voluptate elit mollit minim voluptate magna ad non. Elit consequat labore et exercitation veniam cillum non fugiat Lorem duis amet. Voluptate consequat ipsum nisi exercitation eiusmod nisi.\r\n",
+        "img": "assets/img/product/product8.png,assets/img/product/product4.png",
+        "price": 9549,
+        "category_id": 1007,
+        "created_at": "2020-01-27"
+    },
+    {
+        "id": "7ce7b1f2-a445-40bb-883c-7b075652f58d",
+        "name": "Satiance",
+        "description": "Consequat nostrud irure dolor consectetur. Duis anim ut aliquip id incididunt incididunt officia qui labore consequat minim sunt tempor. Irure nostrud incididunt esse dolore ut. Sunt duis mollit minim laborum Lorem ad enim. Ea pariatur labore voluptate nostrud et voluptate do.\r\n",
+        "img": "assets/img/product/product1.png,assets/img/product/product2.png",
+        "price": 1508,
+        "category_id": 1001,
+        "created_at": "2019-09-01"
+    },
+    {
+        "id": "2e953ea2-2807-4909-a054-c0e7349b1697",
+        "name": "Snorus",
+        "description": "Ea laboris sit incididunt consectetur velit pariatur aute fugiat adipisicing pariatur commodo consectetur irure. Velit consequat nostrud duis qui quis non quis. Dolore dolor sint voluptate laborum nulla est irure ad commodo. Fugiat ad et fugiat dolore.\r\n",
+        "img": "assets/img/product/product4.png,assets/img/product/product5.png",
+        "price": 3937,
+        "category_id": 1008,
+        "created_at": "2023-04-03"
+    },
+    {
+        "id": "7905a221-410e-4840-a3b2-16c16254685b",
+        "name": "Ecrater",
+        "description": "Ut commodo irure esse enim tempor sint cupidatat Lorem id qui veniam non. Ex aute duis exercitation officia tempor. Ut anim consectetur fugiat sunt cupidatat elit officia est ad. Tempor id aliqua labore sunt et incididunt nostrud proident adipisicing ullamco irure enim. Culpa magna minim duis enim laborum laborum dolor minim veniam mollit laborum nisi deserunt tempor. Excepteur aute eu tempor culpa adipisicing incididunt esse irure enim.\r\n",
+        "img": "assets/img/product/product1.png,assets/img/product/product1.png",
+        "price": 8295,
+        "category_id": 1009,
+        "created_at": "2018-02-28"
+    },
+    {
+        "id": "b8685444-bd22-4090-8b0e-1cb6d9f4c1ac",
+        "name": "Urbanshee",
+        "description": "Ut incididunt eu Lorem ex ea non pariatur. Est ex aliqua tempor et tempor ullamco officia adipisicing elit tempor anim enim laborum duis. Mollit sint occaecat magna consequat aute ex. Veniam magna aute occaecat id voluptate sunt sint. Aliqua ullamco ad quis veniam ex.\r\n",
+        "img": "assets/img/product/product5.png,assets/img/product/product3.png",
+        "price": 3618,
+        "category_id": 1002,
+        "created_at": "2018-11-16"
+    },
+    {
+        "id": "c92ac638-95c0-429a-af02-19e784f87688",
+        "name": "Cemention",
+        "description": "Dolor sit eu eu nisi sit ea adipisicing ut ipsum. Aute dolor nisi reprehenderit laborum nostrud ea ut Lorem velit. Ex dolore eu duis amet cupidatat est. Sunt incididunt esse do esse enim occaecat adipisicing. Pariatur enim nisi nisi duis in dolor irure sit enim Lorem dolor. Anim do incididunt proident ut dolor deserunt qui exercitation aliquip occaecat culpa.\r\n",
+        "img": "assets/img/product/product6.png,assets/img/product/product8.png",
+        "price": 5428,
+        "category_id": 1006,
+        "created_at": "2020-05-31"
+    },
+    {
+        "id": "bc622dd4-5e0b-4ee1-95e1-8f0226ab1b0e",
+        "name": "Talae",
+        "description": "Eu ullamco sunt reprehenderit ullamco occaecat quis. Cillum elit nulla deserunt adipisicing tempor tempor. Irure cillum proident duis cillum laborum. Consectetur adipisicing sit velit proident id laboris commodo fugiat ullamco irure. Cillum excepteur esse enim esse consectetur elit ullamco et. Ullamco consectetur culpa excepteur aute nulla nisi duis.\r\n",
+        "img": "assets/img/product/product3.png,assets/img/product/product7.png",
+        "price": 8818,
+        "category_id": 1003,
+        "created_at": "2021-11-30"
+    },
+    {
+        "id": "36a91323-9dc5-45db-a91a-128327bf1db2",
+        "name": "Darwinium",
+        "description": "Consequat exercitation cupidatat magna cupidatat occaecat. Dolore veniam duis exercitation tempor in nulla ad elit fugiat anim ex pariatur non. Et irure minim laboris dolor quis ut aute. Culpa voluptate do veniam elit eiusmod eiusmod ad pariatur deserunt dolore irure exercitation sit.\r\n",
+        "img": "assets/img/product/product7.png,assets/img/product/product8.png",
+        "price": 7951,
+        "category_id": 1002,
+        "created_at": "2019-07-19"
+    },
+    {
+        "id": "c7b9280a-e90d-4768-825c-6e7bece17b8f",
+        "name": "Pyramia",
+        "description": "Ullamco eiusmod est aliquip eiusmod ullamco cillum labore sit reprehenderit aute in. Ipsum dolor voluptate consectetur ut esse officia laborum reprehenderit ex laborum reprehenderit enim et enim. Laborum cupidatat commodo aute voluptate eu sit magna voluptate quis veniam do quis eu. Ex et eiusmod sit Lorem ad officia nulla adipisicing dolor eu sunt. Fugiat proident excepteur nulla excepteur aliquip. Reprehenderit eiusmod qui deserunt pariatur laboris ex anim et laboris.\r\n",
+        "img": "assets/img/product/product8.png,assets/img/product/product8.png",
+        "price": 2739,
+        "category_id": 1005,
+        "created_at": "2023-08-02"
+    },
+    {
+        "id": "053494b0-5e91-4438-b931-b499e3703387",
+        "name": "Injoy",
+        "description": "Et enim voluptate labore laboris ut enim amet nulla excepteur fugiat in magna veniam Lorem. Occaecat excepteur id aliqua eu. Lorem cillum excepteur aliqua eiusmod cupidatat ad duis fugiat fugiat proident non esse. Mollit fugiat cupidatat do nulla nulla deserunt consectetur commodo officia voluptate occaecat ullamco. Mollit fugiat occaecat commodo culpa labore sit et magna elit in.\r\n",
+        "img": "assets/img/product/product5.png,assets/img/product/product2.png",
+        "price": 9085,
+        "category_id": 1007,
+        "created_at": "2014-10-30"
+    },
+    {
+        "id": "727a5963-daa5-41ca-b3b0-adf604f5ffb3",
+        "name": "Bisba",
+        "description": "Reprehenderit tempor ad ullamco voluptate voluptate laboris. Exercitation eiusmod cillum nostrud consequat ex id. Ipsum eu officia sint nisi anim dolore mollit dolor ipsum ex nostrud minim adipisicing consectetur. Quis mollit deserunt veniam deserunt nulla irure do commodo elit deserunt consequat nisi. Anim tempor adipisicing dolore elit ullamco. Occaecat incididunt id aliqua sit id tempor est voluptate Lorem dolore amet sunt dolor. Culpa do et culpa tempor ut reprehenderit.\r\n",
+        "img": "assets/img/product/product6.png,assets/img/product/product6.png",
+        "price": 2832,
+        "category_id": 1009,
+        "created_at": "2018-04-25"
+    },
+    {
+        "id": "1ec2ccc4-e63e-4898-806a-722443686f6f",
+        "name": "Repetwire",
+        "description": "Pariatur reprehenderit non tempor irure amet dolore velit. In fugiat nisi laboris eu amet amet adipisicing nulla culpa. Veniam nulla sint eiusmod culpa non aute aute excepteur id anim anim. Laborum consectetur excepteur magna quis laborum commodo elit qui ullamco. Officia ad enim dolore ut qui ex. Laboris esse cupidatat sunt dolor excepteur magna adipisicing sunt ex voluptate reprehenderit anim Lorem sit.\r\n",
+        "img": "assets/img/product/product6.png,assets/img/product/product3.png",
+        "price": 2987,
+        "category_id": 1006,
+        "created_at": "2017-07-03"
+    },
+    {
+        "id": "e0202616-8036-4596-ac2e-2332d10a3e61",
+        "name": "Kidstock",
+        "description": "Pariatur ullamco Lorem officia enim exercitation magna minim et sit. Cupidatat velit incididunt minim amet aliquip elit culpa ullamco laboris sunt anim proident incididunt sunt. Sit eiusmod enim irure consequat tempor deserunt adipisicing sit esse dolor adipisicing sit.\r\n",
+        "img": "assets/img/product/product7.png,assets/img/product/product6.png",
+        "price": 2478,
+        "category_id": 1001,
+        "created_at": "2018-03-21"
+    },
+    {
+        "id": "e00ffe2c-5886-4385-8075-68b375276cfc",
+        "name": "Sultrax",
+        "description": "Velit ad adipisicing anim sint consectetur esse incididunt dolore quis. Et proident non aute esse excepteur nisi eu. Voluptate sint duis est laborum est deserunt deserunt sunt. Id nostrud aliquip non non commodo est dolore amet pariatur ipsum ullamco exercitation elit. Cupidatat dolor exercitation dolore amet. Quis aliqua magna occaecat cupidatat sunt mollit commodo Lorem quis. Esse ipsum sint qui esse eu enim fugiat aute excepteur irure ea dolor deserunt.\r\n",
+        "img": "assets/img/product/product1.png,assets/img/product/product2.png",
+        "price": 8786,
+        "category_id": 1007,
+        "created_at": "2020-09-19"
+    },
+    {
+        "id": "6d1e1ab1-21d3-4ddd-84f7-5358864086fd",
+        "name": "Velos",
+        "description": "Aliquip excepteur id nulla voluptate sunt sit est ea nostrud excepteur est adipisicing non. Non sit excepteur nisi esse cillum sit exercitation tempor enim excepteur laboris. Excepteur fugiat est labore adipisicing aliquip ipsum adipisicing laborum consequat est deserunt nisi commodo. Reprehenderit dolor dolor ex ipsum cupidatat reprehenderit esse ex esse enim est. Eu non minim in occaecat cupidatat laboris sit id.\r\n",
+        "img": "assets/img/product/product2.png,assets/img/product/product8.png",
+        "price": 8507,
+        "category_id": 1007,
+        "created_at": "2018-11-17"
+    },
+    {
+        "id": "ad99159f-8ab5-4d22-9306-47d2abe09564",
+        "name": "Orbaxter",
+        "description": "Duis duis nisi incididunt ipsum minim sint dolore ea labore nisi. Elit magna ad do proident consectetur. Dolore incididunt mollit laborum nulla laborum ea. Amet nisi aute ea duis. Exercitation mollit ut id labore reprehenderit anim exercitation elit elit do eiusmod excepteur aute. Mollit incididunt proident tempor consequat. Sit do et excepteur reprehenderit aute sint sunt aliqua anim aute officia voluptate.\r\n",
+        "img": "assets/img/product/product3.png,assets/img/product/product5.png",
+        "price": 8637,
+        "category_id": 1006,
+        "created_at": "2020-01-04"
+    },
+    {
+        "id": "fe9f74ca-c8eb-4c88-a318-3193079bc87f",
+        "name": "Exoplode",
+        "description": "Labore nostrud commodo minim eu aliqua esse tempor duis ad est. Adipisicing esse adipisicing aliquip cillum exercitation laboris ut in dolor consectetur. Minim incididunt ipsum quis ex magna consequat occaecat sint ad nostrud. Incididunt consequat magna ut veniam eiusmod excepteur reprehenderit aliqua officia do amet.\r\n",
+        "img": "assets/img/product/product8.png,assets/img/product/product5.png",
+        "price": 5667,
+        "category_id": 1003,
+        "created_at": "2015-05-07"
+    },
+    {
+        "id": "62ea0aee-8ad9-4f66-ac2f-9291042aa666",
+        "name": "Gynko",
+        "description": "Anim qui velit aute aliqua excepteur ex in officia non officia veniam. Commodo exercitation aliqua sint proident esse in deserunt elit amet nulla incididunt nisi velit. Reprehenderit adipisicing aliquip laborum ipsum consectetur dolor eiusmod anim quis minim ut et. Non labore pariatur aute voluptate id officia. Ut consequat dolore consectetur sunt enim deserunt nisi laborum ut officia. Sint deserunt ut officia culpa. Fugiat amet voluptate commodo elit magna minim tempor commodo magna est.\r\n",
+        "img": "assets/img/product/product3.png,assets/img/product/product6.png",
+        "price": 1717,
+        "category_id": 1004,
+        "created_at": "2021-09-27"
+    },
+    {
+        "id": "417c5220-5f99-47e3-bb68-a7b17d415c1a",
+        "name": "Zaphire",
+        "description": "Sint anim quis eiusmod culpa officia consequat qui Lorem et. Culpa enim dolor enim anim. Est tempor pariatur Lorem exercitation fugiat. Incididunt ipsum ullamco sint sunt cupidatat ullamco deserunt et pariatur irure sit id tempor. Occaecat voluptate magna culpa laborum.\r\n",
+        "img": "assets/img/product/product2.png,assets/img/product/product1.png",
+        "price": 7685,
+        "category_id": 1009,
+        "created_at": "2020-08-05"
+    },
+    {
+        "id": "91b7155e-77c7-480e-ab77-4cc363bb9627",
+        "name": "Pyrami",
+        "description": "Duis cupidatat eiusmod enim pariatur cillum labore in nostrud. Irure eu reprehenderit id fugiat elit incididunt non officia aute. Non excepteur ad velit non sint enim mollit sunt aliquip ipsum proident non. Pariatur do reprehenderit ea dolor aliqua pariatur duis nostrud qui voluptate cillum tempor id cillum.\r\n",
+        "img": "assets/img/product/product8.png,assets/img/product/product2.png",
+        "price": 7325,
+        "category_id": 1003,
+        "created_at": "2014-05-25"
+    },
+    {
+        "id": "b421fa5c-6ca1-4bac-9861-4cbe6f719562",
+        "name": "Vixo",
+        "description": "Anim do laboris laborum aliquip minim in occaecat est officia exercitation dolore mollit. Proident elit ea Lorem pariatur nulla deserunt voluptate sunt. Incididunt enim anim elit dolore velit Lorem sit laborum proident do.\r\n",
+        "img": "assets/img/product/product3.png,assets/img/product/product2.png",
+        "price": 5881,
+        "category_id": 1001,
+        "created_at": "2023-03-17"
+    },
+    {
+        "id": "5e9fcd3b-4bfc-4330-8742-f9cff3516351",
+        "name": "Gronk",
+        "description": "Nisi do aute pariatur occaecat duis ex dolore aute. Mollit laboris Lorem ea in aute proident ea veniam occaecat incididunt qui sunt ad veniam. In exercitation anim ipsum qui nulla anim adipisicing qui culpa sunt adipisicing sunt aliquip sunt. Excepteur exercitation ea Lorem quis et non laborum in incididunt esse irure sunt dolore. Ad quis consectetur laboris magna culpa voluptate officia eu ex non. Deserunt fugiat aliqua incididunt nulla consectetur velit Lorem. Proident qui aute minim fugiat dolore laboris aute enim aliqua eiusmod.\r\n",
+        "img": "assets/img/product/product4.png,assets/img/product/product6.png",
+        "price": 1529,
+        "category_id": 1002,
+        "created_at": "2022-10-19"
+    },
+    {
+        "id": "05ed0cff-0bc3-4fa0-a8ec-31e6ab1bb4a0",
+        "name": "Gadtron",
+        "description": "Proident duis et veniam et cillum. Nulla anim pariatur esse consequat ullamco ullamco in incididunt voluptate duis consequat. Nostrud Lorem nulla anim aute. Qui magna ut consectetur labore voluptate in voluptate cillum duis. Aute Lorem sunt ex voluptate.\r\n",
+        "img": "assets/img/product/product5.png,assets/img/product/product5.png",
+        "price": 9971,
+        "category_id": 1002,
+        "created_at": "2017-12-16"
+    },
+    {
+        "id": "1abd5f1a-9740-4989-9953-80e9b032ae91",
+        "name": "Digifad",
+        "description": "Sint et esse qui laboris duis irure anim reprehenderit. Nulla nisi adipisicing magna veniam Lorem exercitation aute qui mollit elit enim commodo. Sint do eiusmod Lorem sint quis est commodo ea sint. Reprehenderit aute in exercitation pariatur labore veniam.\r\n",
+        "img": "assets/img/product/product4.png,assets/img/product/product4.png",
+        "price": 7133,
+        "category_id": 1009,
+        "created_at": "2021-12-05"
+    },
+    {
+        "id": "af406873-3caf-490b-9e46-1276b29ada0e",
+        "name": "Digial",
+        "description": "Dolor excepteur Lorem ipsum proident laborum voluptate nisi proident quis cupidatat. Dolore laborum quis magna minim laborum amet ipsum elit. Amet do ut eiusmod anim nulla ullamco duis mollit duis anim ad. Ipsum commodo sint aute in.\r\n",
+        "img": "assets/img/product/product3.png,assets/img/product/product4.png",
+        "price": 1013,
+        "category_id": 1007,
+        "created_at": "2016-11-04"
+    },
+    {
+        "id": "f747612a-70fa-4490-8b64-d83619294457",
+        "name": "Balooba",
+        "description": "Ullamco non excepteur incididunt mollit occaecat qui aliquip aliquip. Occaecat laboris sit do aute in excepteur et id est. Laboris consectetur consequat proident excepteur adipisicing labore voluptate consectetur velit consectetur aliquip. Labore commodo nisi in nostrud cupidatat irure consequat ipsum irure. Ullamco nostrud ea nostrud occaecat Lorem.\r\n",
+        "img": "assets/img/product/product5.png,assets/img/product/product7.png",
+        "price": 7610,
+        "category_id": 1010,
+        "created_at": "2021-03-07"
+    },
+    {
+        "id": "44d96c1f-1f71-4b61-87b4-b61dcfa65ab3",
+        "name": "Dognosis",
+        "description": "Consectetur sint ex eu voluptate labore. Consequat commodo consectetur labore enim. Lorem minim magna duis exercitation duis ea reprehenderit pariatur. Id minim et do et cupidatat dolor magna ea officia anim aliquip culpa amet reprehenderit.\r\n",
+        "img": "assets/img/product/product4.png,assets/img/product/product3.png",
+        "price": 6438,
+        "category_id": 1009,
+        "created_at": "2021-08-05"
+    },
+    {
+        "id": "fdd085c4-6462-4401-9ca5-51837e56993f",
+        "name": "Comvoy",
+        "description": "Nulla est commodo consectetur velit cillum non. Ad incididunt officia labore aliqua elit ad et. Aliqua ex sint minim Lorem sint. Commodo dolore sint cupidatat consectetur officia. Quis voluptate nulla non commodo magna. Dolor irure tempor occaecat do mollit dolore velit eu eu cillum labore culpa commodo aute.\r\n",
+        "img": "assets/img/product/product3.png,assets/img/product/product4.png",
+        "price": 7712,
+        "category_id": 1001,
+        "created_at": "2023-08-14"
+    },
+    {
+        "id": "cca54b12-169a-40b3-bf40-6f064b5562a6",
+        "name": "Zillanet",
+        "description": "Veniam duis ullamco cillum esse nostrud dolor aute. Excepteur Lorem ipsum ut et magna sit ea ipsum enim. Qui aute elit voluptate incididunt laborum excepteur mollit. Consectetur ipsum deserunt aliquip enim ut commodo pariatur ipsum magna laboris cupidatat labore velit. Lorem quis nulla enim laborum culpa fugiat est ea proident id laborum ea.\r\n",
+        "img": "assets/img/product/product7.png,assets/img/product/product2.png",
+        "price": 6435,
+        "category_id": 1005,
+        "created_at": "2016-09-18"
+    }
+]

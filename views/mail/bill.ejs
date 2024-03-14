@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <%- include('../layout/head') %>
+    </head>
+    <body>
+        <% if(cartItems.length){ %>
+        <section class="order_details section-margin--small">
+            <div class="container">
+                <p class="text-center billing-alert">
+                    Thank you. Your order has been received.
+                </p>
+                <div class="order_details_table">
+                    <h2>Order Details</h2>
+                    <div class="table-responsive">
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th scope="col">Product</th>
+                                    <th scope="col">Quantity</th>
+                                    <th scope="col">Total</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <% let subtotal = 0; cartItems.forEach((cartItem) => { %>
+                                <% subtotal += (cartItem.price * cartItem.quantity) %>
+                                <tr>
+                                    <td>
+                                        <p><%= cartItem.name %></p>
+                                    </td>
+                                    <td>
+                                        <h5>x <%= cartItem.quantity %></h5>
+                                    </td>
+                                    <td>
+                                        <p>$<%= Intl.NumberFormat().format((cartItem.price * cartItem.quantity)) %></p>
+                                    </td>
+                                </tr>
+                            <% }) %>
+                                <tr>
+                                    <td>
+                                        <h4>Subtotal</h4>
+                                    </td>
+                                    <td>
+                                        <h5></h5>
+                                    </td>
+                                    <td>
+                                        <p>$<%= Intl.NumberFormat().format(subtotal) %></p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <h4>Shipping</h4>
+                                    </td>
+                                    <td>
+                                        <h5></h5>
+                                    </td>
+                                    <td>
+                                        <p>Flat rate: $50.00</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <h4>Total</h4>
+                                    </td>
+                                    <td>
+                                        <h5></h5>
+                                    </td>
+                                    <td>
+                                        <h4>$<%= Intl.NumberFormat().format(subtotal + 50) %></h4>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <% } else { %>
+            <div class="w-100 d-flex flex-column justify-content-center align-items-center p-5">
+                <p class="text-center billing-alert">
+                    Thank you. Your order has been received.
+                </p>
+            </div>
+        <% } %>
+    </body>
+</html>

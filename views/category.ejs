@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <%- include('./layout/head') %>
+    </head>
+    <body>
+        <%- include('./layout/header') %>
+
+        <!-- ================ start banner area ================= -->
+        <section class="blog-banner-area" id="category">
+            <div class="container h-100">
+                <div class="blog-banner">
+                    <div class="text-center">
+                        <h1>Shop Category</h1>
+                        <nav aria-label="breadcrumb" class="banner-breadcrumb">
+                            <ol class="breadcrumb">
+                                <li class="breadcrumb-item">
+                                    <a href="/">Home</a>
+                                </li>
+                                <li
+                                    class="breadcrumb-item active"
+                                    aria-current="page"
+                                >
+                                    Shop Category
+                                </li>
+                            </ol>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- ================ end banner area ================= -->
+        <% if(products.length){ %>
+            <section class="section-margin calc-60px">
+                <div class="container">
+                    <div class="section-intro pb-60px">
+                        <h2>
+                            <%= products[0].category.name %>
+                            <span class="section-intro__style">Category</span>
+                        </h2>
+                    </div>
+                  <div class="row">
+                      <% products.forEach((product) => { %>
+                          <div class="col-md-6 col-lg-4 col-xl-3">
+                              <div class="card text-center card-product">
+                                  <div class="card-product__img">
+                                      <img
+                                          class="card-img"
+                                          src="<%= (product.img.split(','))[0] %>"
+                                          alt=""
+                                      />
+                                      <ul class="card-product__imgOverlay">
+                                          <li>
+                                              <button>
+                                                  <i class="ti-shopping-cart"></i>
+                                              </button>
+                                          </li>
+                                          <li>
+                                              <button>
+                                                  <i class="ti-heart"></i>
+                                              </button>
+                                          </li>
+                                      </ul>
+                                  </div>
+                                  <div class="card-body">
+                                      <h4 class="card-product__title">
+                                          <a href="/product?id=<%= product.id %>"<%= product.id %>"
+                                              ><%= product.name %></a
+                                          >
+                                      </h4>
+                                      <p class="card-product__price">$<%= product.price %></p>
+                                  </div>
+                              </div>
+                          </div>
+                      <% }) %>
+                    </div>
+                  </div>
+                </section>
+          <% } else{ %>
+              <div class="w-100 d-flex flex-column justify-content-center align-items-center p-5">
+                <h4>Couldn't find this category</h4>
+              </div>
+          <% } %>
+        <%- include('./layout/footer') %>
+    </body>
+</html>
